@@ -26,11 +26,15 @@ Open the project with vscode:
 code .
 ***********************************************
 Firebase configuration inside angular project:
-1.	connect to firebase account:
+***********************************************
+connect to firebase account:
 firebase login
-2.	check if the connection is alright:
+***********************************************
+check if the connection is alright:
 firebase projects:list
-3.	firebase init
+***********************************************
+firebase initialization:
 firebase init
-4.	Install AngularFire and Firebase:
+***********************************************
+Install AngularFire and Firebase:
 ng add @angular/fire
